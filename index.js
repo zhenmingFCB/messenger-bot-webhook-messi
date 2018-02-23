@@ -67,4 +67,4 @@ app.get('/webhook', (req, res) => {
 app.get('/', (req, res) => {
   console.log('INDEX_PAGE');
   res.status(200).send('Hello World')
-})
+});
