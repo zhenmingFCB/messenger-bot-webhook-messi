@@ -1,0 +1,16 @@
+{
+  "name": "messenger-bot-webhook-messi",
+  "scripts": {
+  },
+  "env": {
+    "PAGE_ACCESS_TOKEN": "EAAFuQE92mlYBAJeyZCe90OehwDrboDjJpGDcphtyFsEmckLWVqEgBqutr05HUPZBZCf8kNiojpzMtIJdfNvLa9JYjqnbdD2ZAvBteZAMk5QAZBkerYm0PUuaL0FYrbZAn0ymHwxsgUPaevU2BC602Y6hoVcDmcsZCYjYOC8quxxi9QZDZD"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
